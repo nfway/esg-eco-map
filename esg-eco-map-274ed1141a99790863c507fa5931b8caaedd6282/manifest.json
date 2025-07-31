@@ -1,0 +1,8 @@
+{
+  "short_name": "ESG Ecosystem Map",
+  "name": "ESG Ecosystem Map",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
